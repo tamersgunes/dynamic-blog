@@ -1,0 +1,7 @@
+<div class="card xl:col-7 lg:col-7 md:col-12 sm:col-12 mx-auto" style="text-align: center; padding-left: 0 !important; padding-right: 0 !important;">
+    <p-menubar [model]="items">
+      <button pButton (click)="switchTheme()"
+              [icon]="'pi ' + (isDarkMode ? 'pi-sun' : 'pi-moon')"
+              [ngClass]="'p-button-rounded p-button-text ' + (isDarkMode ? 'p-button-warning' : 'p-button-plain')"></button>
+    </p-menubar>
+  </div>

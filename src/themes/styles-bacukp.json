@@ -1,0 +1,215 @@
+{
+  "styles": [
+    "src/styles.scss",
+    {
+      "input": "src/themes/theme-arya-blue.scss",
+      "bundleName": "arya-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-saga-blue.scss",
+      "bundleName": "saga-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-mdc-dark-indigo.scss",
+      "bundleName": "mdc-dark-indigo",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-bootstrap4-light-blue.scss",
+      "bundleName": "bootstrap4-light-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-light-blue.scss",
+      "bundleName": "lara-light-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-saga-orange.scss",
+      "bundleName": "saga-orange",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-rhea.scss",
+      "bundleName": "rhea",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-vela-purple.scss",
+      "bundleName": "vela-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-saga-green.scss",
+      "bundleName": "saga-green",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-md-dark-deeppurple.scss",
+      "bundleName": "md-dark-deeppurple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-bootstrap4-dark-blue.scss",
+      "bundleName": "bootstrap4-dark-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-light-teal.scss",
+      "bundleName": "lara-light-teal",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-dark-purple.scss",
+      "bundleName": "lara-dark-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-md-light-deeppurple.scss",
+      "bundleName": "md-light-deeppurple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-bootstrap4-light-purple.scss",
+      "bundleName": "bootstrap4-light-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-light-purple.scss",
+      "bundleName": "lara-light-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-arya-orange.scss",
+      "bundleName": "arya-orange",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-light-indigo.scss",
+      "bundleName": "lara-light-indigo",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-md-light-indigo.scss",
+      "bundleName": "md-light-indigo",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-luna-blue.scss",
+      "bundleName": "luna-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-saga-purple.scss",
+      "bundleName": "saga-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-vela-green.scss",
+      "bundleName": "vela-green",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-dark-teal.scss",
+      "bundleName": "lara-dark-teal",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-luna-amber.scss",
+      "bundleName": "luna-amber",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-nova.scss",
+      "bundleName": "nova",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-arya-purple.scss",
+      "bundleName": "arya-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-tailwind-light.scss",
+      "bundleName": "tailwind-light",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-mdc-light-indigo.scss",
+      "bundleName": "mdc-light-indigo",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-arya-green.scss",
+      "bundleName": "arya-green",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-fluent-light.scss",
+      "bundleName": "fluent-light",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-dark-blue.scss",
+      "bundleName": "lara-dark-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-mdc-light-deeppurple.scss",
+      "bundleName": "mdc-light-deeppurple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-luna-green.scss",
+      "bundleName": "luna-green",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-vela-orange.scss",
+      "bundleName": "vela-orange",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-lara-dark-indigo.scss",
+      "bundleName": "lara-dark-indigo",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-md-dark-indigo.scss",
+      "bundleName": "md-dark-indigo",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-nova-accent.scss",
+      "bundleName": "nova-accent",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-vela-blue.scss",
+      "bundleName": "vela-blue",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-bootstrap4-dark-purple.scss",
+      "bundleName": "bootstrap4-dark-purple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-mdc-dark-deeppurple.scss",
+      "bundleName": "mdc-dark-deeppurple",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-nova-alt.scss",
+      "bundleName": "nova-alt",
+      "inject": false
+    },
+    {
+      "input": "src/themes/theme-luna-pink.scss",
+      "bundleName": "luna-pink",
+      "inject": false
+    }
+  ]
+}
